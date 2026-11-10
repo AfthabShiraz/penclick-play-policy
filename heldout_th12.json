@@ -1,0 +1,251 @@
+{
+ "held_out_thumb_take": "th_12",
+ "note": "All episodes whose composition used thumb demonstration th_12. Everything else in sparsh_skin is training data.",
+ "episodes": [
+  {
+   "recording": "th_1_310",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_329",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_354",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_377",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_387",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_440",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_441",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_442",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_443",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_444",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_445",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_446",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_447",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_448",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_449",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_450",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_451",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_455",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_456",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_457",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_458",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_459",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_460",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_461",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_462",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_463",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_464",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_465",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_466",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_467",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_468",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_469",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_470",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_471",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_472",
+   "thumb_take": "th_12",
+   "label": "success"
+  },
+  {
+   "recording": "th_1_473",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_474",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_475",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_476",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_477",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_478",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_479",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_480",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_481",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_482",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_484",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_485",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_486",
+   "thumb_take": "th_12",
+   "label": "failure"
+  },
+  {
+   "recording": "th_1_487",
+   "thumb_take": "th_12",
+   "label": "failure"
+  }
+ ]
+}

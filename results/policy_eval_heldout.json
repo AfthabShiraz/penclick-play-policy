@@ -1,0 +1,34 @@
+{
+ "ckpt": "checkpoints/penclick_play_policy_step39000.pt",
+ "step": 39000,
+ "best_val_action_mse_norm": 0.006585915689356625,
+ "heldout_recordings": 49,
+ "windows": 2048,
+ "horizon": 200,
+ "executed_steps": 50,
+ "units": "mean absolute error, rad",
+ "policy_mean_of_samples": {
+  "all_joints_executed_steps": 0.01893678680062294,
+  "all_joints_full_chunk": 0.024515371769666672,
+  "thumb_executed_steps": 0.03215890750288963,
+  "index_executed_steps": 0.018301518633961678,
+  "middle_executed_steps": 0.02438141033053398,
+  "ring_executed_steps": 0.0009053331450559199
+ },
+ "policy_single_sample": {
+  "all_joints_executed_steps": 0.020300446078181267,
+  "all_joints_full_chunk": 0.026402011513710022,
+  "thumb_executed_steps": 0.03371357545256615,
+  "index_executed_steps": 0.020186088979244232,
+  "middle_executed_steps": 0.026322660967707634,
+  "ring_executed_steps": 0.0009794727666303515
+ },
+ "hold_current_position": {
+  "all_joints_executed_steps": 0.031909409910440445,
+  "all_joints_full_chunk": 0.04658210277557373,
+  "thumb_executed_steps": 0.030785642564296722,
+  "index_executed_steps": 0.04900144413113594,
+  "middle_executed_steps": 0.04757184162735939,
+  "ring_executed_steps": 0.00027867613243870437
+ }
+}
